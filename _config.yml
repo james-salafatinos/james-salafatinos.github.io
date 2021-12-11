@@ -1,31 +1,29 @@
 # Info about you
-name: Your Name
-position: Job Title
-email: youremail@gmail.com
-company_name: Company Name
-company_url: https://www.yourcompany.com
-place_name: City, ST
+name: James Salafatinos
+position: Creator & Consultant
+email: jamessalafatinos@outlook.com
+company_name: Local Data Collective
+company_url: https://james-salafatinos.github.io/
+place_name: Chicago, IL
 
 # Blog info
-title: Your Name's Blog
+title: Creator & Consultant
 description: Blog
-url: https://brendanhasz.github.io/github-io-blog-template/
+url: https://james-salafatinos.github.io/
 main_github_io: false
 long_description: >-
-    Hi!  Welcome to the template github.io blog site.  This can be a paragraph
-    introducing yourself which will go at the top of the main page for your
-    blog.
+    Take a gander
 
 # Social links
-github_url: https://github.com/yourgithubusername
-linkedin_url: http://www.linkedin.com/in/your-name
+github_url: https://james-salafatinos.github.io/
+linkedin_url: http://www.linkedin.com/in/james-salafatinos
 social:
   links:
-    - http://www.linkedin.com/in/your-name
-    - https://github.com/yourgithubusername
+    - http://www.linkedin.com/in/james-salafatinos
+    - https://github.com/james-salafatinos
 
 # Images + files
-logo: assets/img/headshot.svg
+logo: assets/img/james-salafatinos-headshot.jpg
 cv_url: assets/files/cv.pdf
 resume_url: assets/files/resume.pdf
 
