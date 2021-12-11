@@ -40,8 +40,6 @@ layout: default
     {% assign site_url_len = site.url | size | minus: 1 %}
     {% assign site_url = site.url | slice: 0, site_url_len %}
   {% endif %}
-  <body>
-    <canvas class="webgl"></canvas>
   <p>
   <h2> Tags </h2>
   <a onclick="show_tag_section('all_posts')" style="cursor: pointer;" class="post_tag"> All Posts </a>
@@ -89,7 +87,6 @@ layout: default
     {% endfor %}
     </div>
   {% endfor %}
-</body>
-<script src="/public/scripts/store_population.js" type="module"></script>
+
 </div>
 
